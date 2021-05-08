@@ -1,0 +1,16 @@
+﻿<MyDocs>
+
+  <MyMembers name="test1">
+    <summary>
+      &lt;include&gt; タグを使用すると、別ファイル内のコメントを参照することができます。
+      別ファイルにコメントを配置することで、ソースコードから分離して管理できます。
+    </summary>
+  </MyMembers>
+
+  <MyMembers name="test2">
+    <summary>
+      The summary for this other type.
+    </summary>
+  </MyMembers>
+
+</MyDocs>
